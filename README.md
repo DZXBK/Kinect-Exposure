@@ -17,7 +17,7 @@ In the original project, exposure level was implemented in the camera settings t
 
 
 # How to use
-![4.png](img/4.png)
+![4.png](Img/4.png)
 
 There are several parameters you can change:
 
