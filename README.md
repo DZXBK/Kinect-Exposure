@@ -34,7 +34,7 @@ There are several parameters you can change:
 * **Next time launch**
   * You can run the application without the HUD (interface) using the saved settings. The application will apply the saved settings to the Kinect and then shut down itself. This is useful for simplifying camera setup. To open it again with HUD you will need to change the first line to "False" in the "Settings.txt" file.
   
-![5.png](img/5.png)
+![5.png](Img/5.png)
 
  * **"Save" Button**
    * You can save the settings and they will be applied next time after launching the app.
@@ -50,14 +50,14 @@ To be able to use this app with your Kinect you need to install 2 things:
 **1. KinectRuntime Driver**
  * It should be installed by default after connecting the Kinect. If it's not happend just run KinectRuntime-.x64 or on the Device Manager, for the kinect device, look for new drivers and set this folder.
 
-![6.png](img/6.png)
+![6.png](Img/6.png)
 
 **2. Desktop Development with C++ (whatever that means).**
   * To install it, I guess you need to install Visual Studio. At least, it's the easy way to do so. After the Visual Studio installation, open the Start menu and run "Visual Studio Installer." Click "Modify", then choose "Desktop Development with C++" and click "Install" or "Modify." Done!
     
-![1.png](img/1.png)
-![2.png](img/2.png)
-![3.png](img/3.png)
+![1.png](Img/1.png)
+![2.png](Img/2.png)
+![3.png](Img/3.png)
 
 After all these steps, you can launch the application.
 > [!CAUTION]
