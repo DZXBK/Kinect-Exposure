@@ -1,0 +1,11 @@
+1. Extract only "Kinect Exposure" wherever you want.
+
+2. Install "KinectRuntime-v2.2_1905" from the "What to install" folder.
+
+3. Install Visual Studio, run "Visual Studio Installer." Click "Modify," then choose "Desktop Development with C++" and click "Install" or "Modify." Done! (img 1-3)
+
+4. Run any camera app.
+
+5. Run "Kinect Exposure.exe" from the extracted folder (step 1).
+
+6. Enjoy!
